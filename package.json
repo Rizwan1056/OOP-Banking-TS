@@ -17,6 +17,7 @@
   "author": "Rizwan Ahmed Soomro",
   "license": "MIT",
   "dependencies": {
+    "@rizwan_ahmed/oop-bank": "^1.0.0",
     "inquirer": "^9.2.23"
   },
   "devDependencies": {
