@@ -1,0 +1,25 @@
+{
+  "name": "@rizwan_ahmed/oop-bank",
+  "version": "1.0.0",
+  "description": "OOP Bank",
+  "main": "index.js",
+  "type": "module",
+  "bin": {
+    "oop-bank": "index.js"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Rizwan Ahmed Soomro",
+  "license": "MIT",
+  "dependencies": {
+    "inquirer": "^9.2.23"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
